@@ -9,8 +9,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/rahatbd/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rahatbd.rahatbd) -->
 
 ## Stats
 
@@ -18,14 +22,18 @@
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14" alt="GitHub Stats" align="left" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14" alt="GitHub Stats" height="150" />
 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&layout=compact&custom_title=Languages&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" align="left" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&layout=compact&custom_title=Languages&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" height="150" />
+
+## Hits
+![Visitor Count](https://profile-counter.glitch.me/rahatbd/count.svg)
 
 <!-- [![xkcd repo](https://github-readme-stats.vercel.app/api/pin/?username=rahatbd&repo=xkcd&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- &card_width=412 -->
 <!-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
