@@ -15,18 +15,19 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-light&title_color=ff0000&text_color=ff0000&icon_color=ff0000)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-light&title_color=ff0000&text_color=ff0000&icon_color=ff0000) -->
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14)
- -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14" alt="GitHub Stats" height="150" /> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14" alt="Github Stats" align="center" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" align="center" height="150" />
+</a>
 
-<!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14) -->
+<br/>
+<br/>
+*Note: Languages percentage is a GitHub metric of which languages I have the most code on GitHub, it is not a reflection of skill.*
 
-<!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-light&title_color=ff0000&text_color=000000) -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&layout=compact&custom_title=Languages&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" height="150" />
- -->
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahat-rahman)
@@ -36,10 +37,6 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 
 ![Visitors](https://profile-counter.glitch.me/rahatbd/count.svg)
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahatbd.rahatbd) -->
-
-<!-- [![xkcd repo](https://github-readme-stats.vercel.app/api/pin/?username=rahatbd&repo=xkcd&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- https://github.com/codeSTACKr/codeSTACKr -->
 
 <!--
 **rahatbd/rahatbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
