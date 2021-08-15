@@ -17,16 +17,11 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-light&title_color=ff0000&text_color=ff0000&icon_color=ff0000) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14" alt="Github Stats" align="center" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" align="center" height="150" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14)
 
-<br/>
-<br/>
-*Note: Languages percentage is a GitHub metric of which languages I have the most code on GitHub, it is not a reflection of skill.*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" height="150" />
+
+*Note: Languages percentage is a GitHub metric of the proportion of languages used on GitHub repos, it is not a reflection of skill.*
 
 ## Connect
 
