@@ -17,13 +17,21 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-light&title_color=ff0000&text_color=ff0000&icon_color=ff0000) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14)
+<img src="https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14" alt="GitHub Stats" align="left" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" align="left" height="145" />
 
-*Note: Languages percentage is a GitHub metric of the proportion of languages used on GitHub repos, it is not a reflection of skill.*
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## Connect
+*Note: Language percentages are a GitHub metric of the proportion of languages on GitHub repos, it is not a reflection of skill.*
+
+## Connections
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahat-rahman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rahatrahman.com)
