@@ -28,6 +28,7 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 <br/>
 <br/>
 <br/>
+<br/>
 
 *Note: Language percentages are a GitHub metric of the proportion of languages on GitHub repos, it is not a reflection of skill.*
 
