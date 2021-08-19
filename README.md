@@ -13,6 +13,10 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+## Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 ## Statistics
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-light&title_color=ff0000&text_color=ff0000&icon_color=ff0000) -->
