@@ -15,14 +15,14 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 
 ## Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🌹 Created new repository [rahatbd/rahatbd](https://github.com/rahatbd/rahatbd)
-2. ⌗ Opened PR [#5](https://github.com/Swiiip/sunset-theme-vscode/pull/5) in [Swiiip/sunset-theme-vscode](https://github.com/Swiiip/sunset-theme-vscode)
-3. 🌹 Created new repository [rahatbd/rahatbd.github.io](https://github.com/rahatbd/rahatbd.github.io)
-4. 🌹 Created new repository [rahatbd/xkcd](https://github.com/rahatbd/xkcd)
-5. ⭐ Starred [csstools/sanitize.css](https://github.com/csstools/sanitize.css)
+1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 🌹 Created new repository [rahatbd/rahatbd](https://github.com/rahatbd/rahatbd)
+3. ⌗ Opened PR [#5](https://github.com/Swiiip/sunset-theme-vscode/pull/5) in [Swiiip/sunset-theme-vscode](https://github.com/Swiiip/sunset-theme-vscode)
+4. 🌹 Created new repository [rahatbd/rahatbd.github.io](https://github.com/rahatbd/rahatbd.github.io)
+5. 🌹 Created new repository [rahatbd/xkcd](https://github.com/rahatbd/xkcd)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 19th, 2021, 11:19:01 AM
+Last Update: August 19th, 2021
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Statistics
