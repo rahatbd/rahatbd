@@ -2,13 +2,13 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *' # Update every 60 minutes
+    - cron: '0 0 * * *' # Update every midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
+    name: Update README
 
     steps:
       - uses: actions/checkout@v2.3.4

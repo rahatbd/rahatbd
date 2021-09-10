@@ -1,6 +1,6 @@
 settings:
   username: "rahatbd"
-  commit_msg: "⚡ Update recent-activity"
+  commit_msg: "🤖 Update Activity"
   max_lines: 5
   readme_file: "./README.md"
   url_text: "{REPO}{ID}"
