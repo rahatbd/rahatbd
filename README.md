@@ -15,14 +15,14 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 
 ## Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🌹 Created new repository [rahatbd/podcasts](https://github.com/rahatbd/podcasts)
+1. 🔱 Forked [rahatbd/fed-test](https://github.com/rahatbd/fed-test) from [q4mobile/fed-test](https://github.com/q4mobile/fed-test)
 2. 🌹 Created new repository [rahatbd/podcasts](https://github.com/rahatbd/podcasts)
-3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🌹 Created new repository [rahatbd/rahatbd](https://github.com/rahatbd/rahatbd)
-5. ⌗ Opened PR [#5](https://github.com/Swiiip/sunset-theme-vscode/pull/5) in [Swiiip/sunset-theme-vscode](https://github.com/Swiiip/sunset-theme-vscode)
+3. 🌹 Created new repository [rahatbd/podcasts](https://github.com/rahatbd/podcasts)
+4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 🌹 Created new repository [rahatbd/rahatbd](https://github.com/rahatbd/rahatbd)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Update: September 17th, 2021
+Last Update: September 18th, 2021
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Statistics
