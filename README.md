@@ -1,6 +1,6 @@
 # Rahat Rahman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="wave" width="30" />
 
-I’m a front-end developer based in Toronto. I love to create web applications that are user accessible, interactive and responsive while making my code clean and reusable. I'm currently working at [Bidgala](https://bidgala.com).
+I am a web developer based in Toronto. I love to create websites that are accessible, interactive and responsive while making my code clean, modular and DRY. I'm currently working at [Q4](https://www.q4inc.com).
 
 ## Technologies
 
@@ -12,6 +12,8 @@ I’m a front-end developer based in Toronto. I love to create web applications 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ## Activity
 <!--RECENT_ACTIVITY:start-->
