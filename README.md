@@ -18,21 +18,23 @@ I am a web developer based in Toronto. I love to create websites that are access
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Activity
+<!-- ## Activity -->
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [rahatbd/fed-test](https://github.com/rahatbd/fed-test) from [q4mobile/fed-test](https://github.com/q4mobile/fed-test)
-2. 🌹 Created new repository [rahatbd/podcasts](https://github.com/rahatbd/podcasts)
-3. 🌹 Created new repository [rahatbd/podcasts](https://github.com/rahatbd/podcasts)
-4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🌹 Created new repository [rahatbd/rahatbd](https://github.com/rahatbd/rahatbd)
+<!-- 1. 🔱 Forked [rahatbd/fed-test](https://github.com/rahatbd/fed-test) from [q4mobile/fed-test](https://github.com/q4mobile/fed-test) -->
+<!-- 2. 🌹 Created new repository [rahatbd/podcasts](https://github.com/rahatbd/podcasts) -->
+<!-- 3. 🌹 Created new repository [rahatbd/podcasts](https://github.com/rahatbd/podcasts) -->
+<!-- 4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) -->
+<!-- 5. 🌹 Created new repository [rahatbd/rahatbd](https://github.com/rahatbd/rahatbd) -->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Update: December 29th, 2021
+<!-- Last Update: December 29th, 2021 -->
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Statistics
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-light&title_color=ff0000&text_color=ff0000&icon_color=ff0000) -->
+
+[![Rahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahatbd)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=rahatbd&custom_title=GitHub&nbsp;Stats&hide=stars,issues&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=solarized-dark&title_color=ffbd14&text_color=fff&icon_color=fff&border_color=ffbd14" alt="GitHub Stats" align="left" />
 
