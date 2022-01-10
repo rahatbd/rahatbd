@@ -36,7 +36,7 @@ I am a web developer based in Toronto. I love to create websites that are access
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbd&custom_title=Languages&layout=compact&theme=solarized-dark&title_color=ffbd14&text_color=fff&border_color=ffbd14" alt="Languages" height="145" />
 
-*Note: Language percentages are a GitHub metric of the proportion of languages on GitHub repos, it is not a reflection of skill.*
+<!-- *Note: Language percentages are a GitHub metric of the proportion of languages on GitHub repos, it is not a reflection of skill.* -->
 
 ## Connections
 
@@ -46,7 +46,7 @@ I am a web developer based in Toronto. I love to create websites that are access
 ## Visitors
 
 ![Visitors](https://profile-counter.glitch.me/rahatbd/count.svg)
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahatbd.rahatbd) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rahatbd.rahatbd)
 
 <!--
 **rahatbd/rahatbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
