@@ -1,6 +1,6 @@
 # Rahat Rahman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="wave" width="30" />
 
-I am a web developer based in Toronto. I love to create websites that are accessible, interactive and responsive while making my code clean, modular and DRY. I'm currently working at [Q4](https://www.q4inc.com).
+I am a Front End Developer who specializes in accessible and responsive web development using semantic HTML markup, modern CSS layouts, vanilla JavaScript and React. I am experienced working in client focused Agile & Scrum teams with a solid understanding of all aspects of SDLC. I am passionate about web as a platform since it is open, free and democratic and which provides the maximum reach of users.
 
 ## Technologies
 
